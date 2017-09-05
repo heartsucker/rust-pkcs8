@@ -1,0 +1,12 @@
+[package]
+name = "pkcs8"
+version = "0.0.1"
+authors = ["Eric Hartsuyker <eric.hartsuyker@advancedtelematic.com>"]
+readme = "README.md"
+license = "MIT/Apache-2.0"
+keywords = [ "security", "pkcs8" ]
+categories = [ "cryptography" ]
+
+[dependencies]
+derp = "0.0.10"
+untrusted = "0.5"
